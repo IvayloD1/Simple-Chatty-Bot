@@ -1,5 +1,6 @@
-Jet Brains Academy
-Java project: Simple Chatty Bot
+****Jet Brains Academy**
+**Java project: Simple Chatty Bot****
+
 
 Instructions:
 
@@ -14,9 +15,3 @@ The bot can ask anything you want, but there are two rules for your output:
     • an option starts with a digit followed by the dot (1., 2., 3., 4.)
 If a user enters an incorrect answer, the bot may print a message: "Please, try again.".
 The program must end with the "Congratulations, have a nice day!" message. 
-
-
-
-
-
-
